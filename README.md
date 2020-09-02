@@ -38,7 +38,7 @@
 <br />
 
 <div>
-    <img alt="Jared Jewitt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jared-jewitt&show_icons=true&hide_border=true" />
+    <img alt="Jared Jewitt's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jared-jewitt&show_icons=true&hide_border=false" />
 </div>
 
 <br />
