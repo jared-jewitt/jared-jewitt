@@ -51,11 +51,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//jared-jewitt/jared-jewitt/issues/1) in [jared-jewitt/jared-jewitt](https://github.com//jared-jewitt/jared-jewitt)
-2. 🎉 Merged PR [#23](https://github.com//jared-jewitt/client-booster-react/pull/23) in [jared-jewitt/client-booster-react](https://github.com//jared-jewitt/client-booster-react)
-3. 💪 Opened PR [#23](https://github.com//jared-jewitt/client-booster-react/pull/23) in [jared-jewitt/client-booster-react](https://github.com//jared-jewitt/client-booster-react)
-4. ❌ Closed PR [#21](https://github.com//jared-jewitt/client-booster-react/pull/21) in [jared-jewitt/client-booster-react](https://github.com//jared-jewitt/client-booster-react)
-5. ❌ Closed PR [#20](https://github.com//jared-jewitt/client-booster-react/pull/20) in [jared-jewitt/client-booster-react](https://github.com//jared-jewitt/client-booster-react)
+1. 🗣 Commented on [#1](https://github.com/jared-jewitt/jared-jewitt/issues/1) in [jared-jewitt/jared-jewitt](https://github.com/jared-jewitt/jared-jewitt)
+2. 🎉 Merged PR [#23](https://github.com/jared-jewitt/client-booster-react/pull/23) in [jared-jewitt/client-booster-react](https://github.com/jared-jewitt/client-booster-react)
+3. 💪 Opened PR [#23](https://github.com/jared-jewitt/client-booster-react/pull/23) in [jared-jewitt/client-booster-react](https://github.com/jared-jewitt/client-booster-react)
+4. ❌ Closed PR [#21](https://github.com/jared-jewitt/client-booster-react/pull/21) in [jared-jewitt/client-booster-react](https://github.com/jared-jewitt/client-booster-react)
+5. ❌ Closed PR [#20](https://github.com/jared-jewitt/client-booster-react/pull/20) in [jared-jewitt/client-booster-react](https://github.com/jared-jewitt/client-booster-react)
 <!--END_SECTION:activity-->
 
 </details>
