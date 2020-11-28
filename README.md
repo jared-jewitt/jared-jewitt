@@ -3,13 +3,13 @@
 [![Website](https://img.shields.io/website?label=jared-jewitt.io&style=for-the-badge&url=https%3A%2F%2Fjared-jewitt.io)](https://jared-jewitt.io)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jared-jewitt)](https://www.linkedin.com/in/jared-jewitt)
 
-## I'm a Web Developer, and Crazy Idea Spawner!
+## Just another Frontend Developer, bloating the web one npm package at a time.
 
 - 🚀 I just released my [Launchpad](https://github.com/jared-jewitt/launchpad)!
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning NextJS and Hashicorp Waypoint
 - 👷 I’m passionate about all things automation
-- 🥅 2020 Goals: Learn NextJS and begin my app to revolutionize the housing sector
-- ⚡ Fun fact: I live in the nu-metal era and always will
+- 🥅 2020 Goals: Begin my app to revolutionize the housing sector
+- ⚡ Fun fact: Nu-metal is my go-to concentration music
 
 ### Languages and Tools:
 
