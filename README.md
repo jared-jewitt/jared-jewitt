@@ -6,7 +6,7 @@
 ## Just another Frontend Developer, bloating the web one npm package at a time.
 
 - 🚀 I just released my [Launchpad](https://github.com/jared-jewitt/launchpad)!
-- 🌱 I’m currently learning NextJS and HashiCorp Waypoint
+- 🌱 I’m currently learning Django and Google Cloud Run
 - 👷 I’m passionate about all things automation
 - 🥅 2020 Goals: Begin my app to revolutionize the housing sector
 - ⚡ Fun fact: Nu-metal is my go-to concentration music
