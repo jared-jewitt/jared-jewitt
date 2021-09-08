@@ -1,6 +1,5 @@
 ### Hi there, I'm Jared 👋
 
-[![Website](https://img.shields.io/website?label=jared-jewitt.io&style=for-the-badge&url=https%3A%2F%2Fjared-jewitt.io)](https://jared-jewitt.io)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jared-jewitt)](https://www.linkedin.com/in/jared-jewitt)
 
 ## Just another Frontend Developer, bloating the web one npm package at a time.
