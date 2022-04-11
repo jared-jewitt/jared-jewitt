@@ -2,12 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jared-jewitt)](https://www.linkedin.com/in/jared-jewitt)
 
-## Just another Frontend Developer, bloating the web one npm package at a time.
-
-- 🚀 I just released my [Launchpad](https://github.com/jared-jewitt/launchpad)!
-- 🌱 I’m currently learning Django and Google Cloud Run
 - 👷 I’m passionate about all things automation
-- 🥅 2021 Goals: Begin my app to revolutionize the housing sector
+- 🥅 My 2022 Goal: Release at least one passion project
 - ⚡ Fun fact: Nu-metal is my go-to concentration music
 
 ### Languages and Tools:
