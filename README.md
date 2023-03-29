@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jared-jewitt)](https://www.linkedin.com/in/jared-jewitt)
 
 - 👷 I’m excited about all things automation
-- 🥅 My 2022 Goal: Release my passion project I've been working hard on
+- 🎨 I love designing things
 - ⚡ Fun fact: Nu-metal is my go-to concentration music
 
 ### Languages and Tools:
