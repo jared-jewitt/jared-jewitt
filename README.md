@@ -2,8 +2,9 @@
 
 I'm a frontend developer and designer based in Victoria, British Columbia. Here are a few fun facts about me:
 - I love creating products _**that look and feel great**_
-- I enjoy learning new frontend and backend technologies
-- I've worked as a web developer since 2018
+- I'm always exploring new frontend and backend technologies
+- Having a minimal, clean desk setup is a must for me
+- I've been working professionally as a web developer since 2018
 - I'll probably use [Dracula Theme](https://draculatheme.com/) for everything, forever
 
 ### Socials
@@ -14,15 +15,14 @@ I'm a frontend developer and designer based in Victoria, British Columbia. Here 
 ### Languages & Tools
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=py" height="32" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="32" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="nextjs logo" />
-  <img src="https://skillicons.dev/icons?i=vite" height="32" alt="vite logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="32" alt="mui logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="nodejs logo" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="32" alt="graphql logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="32" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=ts" style="height: 32px" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=js" style="height: 32px" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=py" style="height: 32px" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=react" style="height: 32px" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" style="height: 32px" alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=vite" style="height: 32px" alt="vite logo" />
+  <img src="https://skillicons.dev/icons?i=materialui" style="height: 32px" alt="mui logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" style="height: 32px" alt="tailwindcss logo" />
+  <img src="https://skillicons.dev/icons?i=graphql" style="height: 32px" alt="graphql logo" />
+  <img src="https://skillicons.dev/icons?i=docker" style="height: 32px" alt="docker logo" />
 </div>
