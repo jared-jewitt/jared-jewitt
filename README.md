@@ -12,6 +12,7 @@ I'm a frontend developer and designer based in Victoria, British Columbia. Here 
 <div>
   <img src="https://skillicons.dev/icons?i=ts" style="height: 32px" alt="typescript logo" />
   <img src="https://skillicons.dev/icons?i=js" style="height: 32px" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=css" style="height: 32px" alt="css logo" />
   <img src="https://skillicons.dev/icons?i=py" style="height: 32px" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=react" style="height: 32px" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=nextjs" style="height: 32px" alt="nextjs logo" />
