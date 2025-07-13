@@ -7,11 +7,6 @@ I'm a frontend developer and designer based in Victoria, British Columbia. Here 
 - I've been working professionally as a web developer since 2018
 - I'll probably use [Dracula Theme](https://draculatheme.com/) for everything, forever
 
-### Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b65c6?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/jared-jewitt)](https://www.linkedin.com/in/jared-jewitt)
-[![Gmail](https://img.shields.io/badge/Gmail-ea4236?logo=linkedin&logoColor=white&style=for-the-badge&link=mailto:jaredjewitt@gmail.com)](mailto:jaredjewitt@gmail.com)
-
 ### Languages & Tools
 
 <div>
